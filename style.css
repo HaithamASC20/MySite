@@ -1,8 +1,17 @@
-
+*{margin: 0px;
+    padding: 0px;}
 #headerPic{
-    height : 25%;
-    width : 100%;
-    object-fit: cover;
+    
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    /* background-image: url('img/IMAG0360.jpg');
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+     */
 }
 
 
