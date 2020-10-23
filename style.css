@@ -8,6 +8,7 @@
     left: 0;
     margin: 0;
     padding: 0;
+    margin-bottom: -.4vh;
     /* background-image: url('img/IMAG0360.jpg');
     background-size:100% 100%;
     background-repeat: no-repeat;
@@ -91,7 +92,7 @@
     background-color: yellow;
     
 }
-.contact{
+.contact, #contact1{
     background-color: gray;
     margin-top: -28px;
 }
@@ -162,6 +163,8 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+
+    
   }
   
   /* Change background on mouse-over */
